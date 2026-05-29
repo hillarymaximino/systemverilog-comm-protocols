@@ -6,7 +6,7 @@ Este projeto faz parte do meu desenvolvimento contínuo em Engenharia da Computa
 
 ## Protocolos Implementados
 
-- [x] **[SPI (Serial Peripheral Interface)](./spi)** - Implementação de um Escravo SPI (Modo 0, MSB First).
+- [x] **[SPI (Serial Peripheral Interface)](./SPI)** - Implementação de um Escravo SPI (Modo 0, MSB First).
 - [ ] **UART** *(Em breve)*
 - [ ] **I2C** *(Em breve)*
 - [ ] **USART** *(Em breve)*
